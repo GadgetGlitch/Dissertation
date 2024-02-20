@@ -16,11 +16,13 @@ The psychology behind whhat makes up the conditional components of a healthy wor
   -Design out Problems
 
 ## Markdown Mod 9 Checklist
-|---|---|
-| **Task** | Completed?|
-| * 2 Level One Headeings | [ ] |
-| * 2 Level two headings | [ ] |
-| * 1 List | [ ] |
-| * 1 Link | [ ] |
-| * Proper Markdown | [ ] |
+
+| **Task**                          | Done? |
+|-----------------------------------|:----------:|
+| 2 Level One Headings              | [ ]        |
+| 2 Level Two Headings              | [ ]        |
+| 1 List                            | [ ]        |
+| 1 Link                            | [ ]        |
+| Proper Markdown                   | [ ]        |
+
  
