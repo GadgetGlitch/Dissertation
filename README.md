@@ -1,9 +1,26 @@
 README.md
 # This is my doctoral dissertation repository. 
+## Better Together
+The dissertation is about creating a SYstems Scinece AI self-learning research tool that Saves-the-world through a simple game app.
 
-It is a AI self-learning systems science research tool wrapped in a game app.
+## Necessity of Metacrisis Systems Solution Tools
+- The metacrisis is an immediate catalist for systemic social redesign.
+- Humanity has gained enough knowledge to start to put together the puzzle pieces.
+- The Game Design Documment is presented on NOTION with the
+  LINK: [Game Design Document](https://savetheworldgame.notion.site/Game-Design-Document-96e93acd57154301b08344fb2cd9db16?pvs=4)
 
-- The concepts come from the research that suggests the pool of talent is not wide enough to get the specialists needed thus the tool will need to appeal to the globes population.
-- The metacrisis is an immediate catalist for systemic social change.
-- The landscape of game eliminates earths global challenges of distance, common language, and education, turning the virtual space into an earth playground for rapid failure and rapid problem solving. 
+# Systems Scinece, Thinking, and Design
+The psychology behind whhat makes up the conditional components of a healthy working system?
+  -Have all the pieces accounted for
+  -Design on the Systems Level 
+  -Design out Problems
 
+## Markdown Mod 9 Checklist
+|---|---|
+| **Task** | Completed?|
+| * 2 Level One Headeings | [ ] |
+| * 2 Level two headings | [ ] |
+| * 1 List | [ ] |
+| * 1 Link | [ ] |
+| * Proper Markdown | [ ] |
+ 
