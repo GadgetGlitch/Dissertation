@@ -19,10 +19,10 @@ The psychology behind whhat makes up the conditional components of a healthy wor
 
 | **Task**                          | Done? |
 |-----------------------------------|:----------:|
-| 2 Level One Headings              | [ ]        |
-| 2 Level Two Headings              | [ ]        |
-| 1 List                            | [ ]        |
-| 1 Link                            | [ ]        |
-| Proper Markdown                   | [ ]        |
+| 2 Level One Headings              | [X]        |
+| 2 Level Two Headings              | [X]        |
+| 1 List                            | [X]        |
+| 1 Link                            | [X]        |
+| Proper Markdown                   | [X]        |
 
  
