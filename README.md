@@ -23,6 +23,6 @@ The psychology behind whhat makes up the conditional components of a healthy wor
 | 2 Level Two Headings              | [X]        |
 | 1 List                            | [X]        |
 | 1 Link                            | [X]        |
-| Proper Markdown                   | [X]        |
+| Proper Markdown                   | [?]        |
 
  
