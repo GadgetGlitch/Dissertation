@@ -1,6 +1,6 @@
 README.md
 # This is my doctoral dissertation repository. 
-## Better Together
+<div align="center"> ## Better Together</div>
 The dissertation is about creating a SYstems Scinece AI self-learning research tool that Saves-the-world through a simple game app.
 
 ## Necessity of Metacrisis Systems Solution Tools
